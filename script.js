@@ -16,14 +16,12 @@ const colors = ['#006400', '#00FF00', '#FFD700', '#4B0082', '#0000CD']
 
 // Обработчик для кнопки "Перезапустить"
 document.getElementById('restart').addEventListener('click', function(e) {
-        e.preventDefault()
         location.reload()
- })
+})
 
 // Обработчик для кнопки "Начать игру"
 startBtn.addEventListener('click', function(e) {
-    e.preventDefault()
-    screens[0].classList.add('up')
+        screens[0].classList.add('up')
 })
 
 // Обработчик для выбора времени
