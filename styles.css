@@ -24,16 +24,16 @@ a:hover {
 
 .start {
   padding: 10px 20px;
-    background-color: #16d9e3;
-    color: white;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-    font-size: 16px;
-    display: none;
-    margin: 20px auto;
-    width: fit-content;
-    box-shadow: -8px -8px 20px #2a333d, 10px 7px 20px #475462;
+  background-color: #16d9e3;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  display: none;
+  margin: 20px auto;
+  width: fit-content;
+  box-shadow: -8px -8px 20px #2a333d, 10px 7px 20px #475462;
 }
 
 h1 {
