@@ -23,17 +23,7 @@ a:hover {
 }
 
 .start {
-  padding: 10px 20px;
-  background-color: #16d9e3;
-  color: white;
-  border: none;
-  border-radius: 5px;
-  cursor: pointer;
-  display: flex;
-  font-size: 16px;
-  margin: 20px auto;
-  width: fit-content;
-  box-shadow: -8px -8px 20px #2a333d, 10px 7px 20px #475462;
+  font-size: 1.5rem;
 }
 
 h1 {
@@ -69,17 +59,13 @@ h1 {
 }
 
 .time-btn {
-  padding: 10px 20px;
-  background-color: #16d9e3; 
-  color: white;
-  border: none;
-  border-radius: 5px;
-  display: flex;
+  background-color: transparent;
+  border: 2px solid #c0c0c0;
+  color: #fff;
   cursor: pointer;
-  font-size: 16px;
-  margin: 20px auto;
-  width: fit-content;
-  box-shadow: -8px -8px 20px #2a333d, 10px 7px 20px #475462;
+  font-family: inherit;
+  padding: 0.5rem 1rem;
+  font-size: 1.5rem;
 }
 
 .time-btn:hover {
